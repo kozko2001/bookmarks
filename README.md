@@ -7,9 +7,17 @@ On the device part (mainly in Android) I'm using Tasker and AutoShare to interce
 
 This same code could be use to store the data on any storage service, but I really love the simplenote app on mac, is really light so for me was the best choise.
 
+# Bookmarks recorder (android)
+
+For sending the links that I want to read later on Android, I use the AutoShare and tasker apps.
+
+With the AutoShare When I press on share on any application, you can share with the AutoShare and configure Tasker, to create a post request with the link and title.
+
 # Configuration
 
 You have to add your credentials from simplenote in the config.json (just copy the template and change your credentials)
+
+Also on the simplenote, you must create a empty note with the tag bookmarks
 
 To install do a:
 ```
